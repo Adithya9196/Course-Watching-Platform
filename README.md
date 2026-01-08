@@ -1,4 +1,4 @@
-# interview
+# Course Watching Platform
 
 A new Flutter project.
 
